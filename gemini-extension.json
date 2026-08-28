@@ -1,0 +1,12 @@
+{
+  "name": "vestige",
+  "version": "1.0.0",
+  "description": "Local-first Vestige memory for Gemini CLI. Causal Backfill over MCP tools recall, smart_ingest, and backfill.",
+  "contextFileName": "GEMINI.md",
+  "mcpServers": {
+    "vestige": {
+      "command": "npx",
+      "args": ["-y", "vestige-mcp-server@2.3.0"]
+    }
+  }
+}
