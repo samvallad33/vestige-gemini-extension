@@ -16,4 +16,4 @@ Default store is the OS per-user data directory. There is no `--project` flag. F
 
 Never ingest secrets, API keys, passwords, or tokens.
 
-Ubuntu 22.04 and Debian 12 support lands in vestige-mcp-server v2.4.0. This extension pins `@2.3.0`.
+This extension pins vestige-mcp-server@2.7.1.
