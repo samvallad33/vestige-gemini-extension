@@ -16,4 +16,4 @@ Default store is the OS per-user data directory. There is no `--project` flag. F
 
 Never ingest secrets, API keys, passwords, or tokens.
 
-This extension pins vestige-mcp-server@2.7.1.
+This extension pins vestige-mcp-server@2.8.0.
